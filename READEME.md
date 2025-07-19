@@ -21,7 +21,7 @@ Etapa 1:
 Etapa 2:
 - Amazon Elastic Load Balance
 - Faz o balanceamento de cargas de trabalho distribuindo as cargas de modo a não sobrecarregar nenhuma instacia do EC2.
-- Em conjunto com o Auto Scaling o EBL cuida para que o sistema não tenha sobrecargas de trablho em momentos de pico, distribuindo adequadamente as solicitações entre as instancias EC2.
+- Em conjunto com o Auto Scaling o EBL cuida para que o sistema não tenha sobrecargas de trablho em momentos de pico, distribuindo adequadamente as solicitações entre as instancias  EC2.
 
 Etapa 3:
 - Block Storage
