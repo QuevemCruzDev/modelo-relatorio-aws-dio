@@ -36,7 +36,7 @@ A implementação de ferramentas na empresa *Abstergo Industries tem como espera
 
 - [Amazon EC2 Auto Scaling](https://aws.amazon.com/pt/ec2/autoscaling/)
 - [Amazon EC2 Auto Scaling](https://aws.amazon.com/pt/ec2/autoscaling/)
-- [Elastic Load BalancingS](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/userguide/what-is-load-balancing.html)
+- [Elastic Load Balancing](https://docs.aws.amazon.com/pt_br/elasticloadbalancing/latest/userguide/what-is-load-balancing.html)
 
 Assinatura do responsável pelo projeto:
 *Quevem Costa*
